@@ -11,7 +11,14 @@ const layout = [
     [17,18,19]
 ]
 
-//Resource/layout? Or Grid based dots?
+const resources = [
+    "wood", "brick", "stone", "wheat", "sheep", "sand"
+]
+
+const grid = 132;
+//132 points => 11x12 grid
+
+//Resource/layout? Or Grid/dots?
 
 // // Grid
 // const createGrid = () => {
